@@ -1,0 +1,1 @@
+- [x] Fedor G. Pikus *"Hands-On Design Patterns with C++"*, 2019, ISBN 978-1-78883-256-4
